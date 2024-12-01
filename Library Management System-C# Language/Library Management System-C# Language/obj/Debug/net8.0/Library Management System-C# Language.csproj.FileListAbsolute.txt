@@ -1,0 +1,14 @@
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\bin\Debug\net8.0\Library Management System-C# Language.exe
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\bin\Debug\net8.0\Library Management System-C# Language.deps.json
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\bin\Debug\net8.0\Library Management System-C# Language.runtimeconfig.json
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\bin\Debug\net8.0\Library Management System-C# Language.dll
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\bin\Debug\net8.0\Library Management System-C# Language.pdb
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.AssemblyInfoInputs.cache
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.AssemblyInfo.cs
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.csproj.CoreCompileInputs.cache
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.dll
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\refint\Library Management System-C# Language.dll
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.pdb
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\Library Management System-C# Language.genruntimeconfig.cache
+C:\Users\PC-GEN01\source\repos\Library Management System-C# Language\Library Management System-C# Language\obj\Debug\net8.0\ref\Library Management System-C# Language.dll
