@@ -1,13 +1,13 @@
 # Backend Development Roadmap with .NET
 
 ## 1. Programming Fundamentals
-- **C# Language**:
+- [x] **C# Language**:
   - Control structures (conditionals, loops).
   - Data types, variables, operators.
   - Functions, classes, and objects (OOP: Object-Oriented Programming).
   - Encapsulation, inheritance, and polymorphism.
   - Delegates, events, LINQ.
-- **Data Structures and Algorithms**:
+- [x] **Data Structures and Algorithms**:
   - Arrays, lists, queues, stacks, dictionaries.
   - Search and sorting algorithms.
   - Time and space complexity (Big O).
