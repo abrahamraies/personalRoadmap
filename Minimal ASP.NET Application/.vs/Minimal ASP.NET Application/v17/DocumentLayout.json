@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|c:\\users\\pc-gen01\\source\\repos\\minimal asp.net application\\minimal asp.net application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F106AC58-CB3D-4280-B714-D7221C1BF7C4}|Minimal ASP.NET Application\\Minimal ASP.NET Application.csproj|solutionrelative:minimal asp.net application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\CustomMiddleware.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:57:52.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Program.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Program.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:55:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:48:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:47:33.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:46:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Services\\BookService.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:46:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:46:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Minimal ASP.NET Application\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\PC-GEN01\\source\\repos\\Minimal ASP.NET Application\\Minimal ASP.NET Application\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Minimal ASP.NET Application\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:44:28.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.AssemblyInfoInputs.cache
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.AssemblyInfo.cs
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.csproj.CoreCompileInputs.cache
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.RazorAssemblyInfo.cache
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.RazorAssemblyInfo.cs
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\appsettings.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.staticwebassets.runtime.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.exe
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.deps.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.runtimeconfig.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.dll
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\bin\Debug\net8.0\Minimal ASP.NET Application.pdb
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets\msbuild.Minimal ASP.NET Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Minimal ASP.NET Application.props
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Minimal ASP.NET Application.props
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Minimal ASP.NET Application.props
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\scopedcss\bundle\Minimal ASP.NET Application.styles.css
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\scopedcss\projectbundle\Minimal ASP.NET Application.bundle.scp.css
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.dll
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\refint\Minimal ASP.NET Application.dll
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.pdb
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\Minimal ASP.NET Application.genruntimeconfig.cache
+C:\Users\PC-GEN01\source\repos\Minimal ASP.NET Application\Minimal ASP.NET Application\obj\Debug\net8.0\ref\Minimal ASP.NET Application.dll

@@ -1,0 +1,144 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "Library Books";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        h1, h2 {
+            color: #4CAF50;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+            table th, table td {
+                padding: 10px;
+                border: 1px solid #ddd;
+                text-align: left;
+            }
+
+            table th {
+                background-color: #4CAF50;
+                color: white;
+            }
+
+            table tbody tr:nth-child(odd) {
+                background-color: #f9f9f9;
+            }
+
+        .error-messages {
+            color: red;
+            margin-bottom: 15px;
+        }
+
+        .form-container {
+            margin-bottom: 20px;
+        }
+
+            .form-container label {
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .form-container input, .form-container button {
+                padding: 10px;
+                margin: 5px 0;
+                width: 100%;
+                max-width: 300px;
+                display: block;
+            }
+
+            .form-container button {
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                cursor: pointer;
+            }
+
+                .form-container button:hover {
+                    background-color: #45a049;
+                }
+
+        .action-button {
+            background-color: #f44336;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+
+            .action-button:hover {
+                background-color: #e53935;
+            }
+    </style>
+</head>
+<body>
+    <h1>Books in Library</h1>
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="error-messages">
+            <ul>
+                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    <li>@error.ErrorMessage</li>
+                }
+            </ul>
+        </div>
+    }
+
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book</td>
+                        <td>
+                            <form method="post" asp-controller="Books" asp-action="RemoveBook">
+                                <input type="hidden" name="title" value="@book" />
+                                <button type="submit" class="action-button">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="2" style="text-align: center;">No books available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-container">
+        <h2>Add a New Book</h2>
+        <form method="post" asp-controller="Books" asp-action="AddBook">
+            <label for="title">Title:</label>
+            <input type="text" id="title" name="title" required placeholder="Enter book title" />
+            <button type="submit">Add Book</button>
+        </form>
+    </div>
+</body>
+</html>
